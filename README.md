@@ -4,7 +4,7 @@
 
 **Live:** [kaaragir.in](https://kaaragir.in)
 
-![Home page screenshot](docs/screenshots/home.png)
+![Home page screenshot]([https://drive.google.com/file/d/1WZDd0XJ5fdymn9kxEGsCYpDHpK_iyAgY/view?usp=sharing])
 
 ## Features
 
