@@ -187,4 +187,4 @@ The database starts empty. Add a few documents to the `services` collection and 
 
 ## Author
 
-**[Om Ishware]** · [LinkedIn](https://linkedin.com/in/omishware) · [GitHub](https://github.com/0m211)
+**[Om Ishware]** · [LinkedIn]((https://www.linkedin.com/in/om-ishware-390809333/)) · [GitHub](https://github.com/0m211)
