@@ -184,10 +184,7 @@ The database starts empty. Add a few documents to the `services` collection and 
 - [ ] Razorpay webhooks and refunds from the admin panel
 - [ ] Push notifications
 
-## License
-
-MIT. See [LICENSE](LICENSE).
 
 ## Author
 
-**[Your Name]** · [LinkedIn](https://linkedin.com/in/yourname) · [GitHub](https://github.com/yourname)
+**[Om Ishware]** · [LinkedIn](https://linkedin.com/in/omishware) · [GitHub](https://github.com/0m211)
