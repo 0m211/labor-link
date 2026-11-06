@@ -4,7 +4,7 @@
 
 **Live:** [kaaragir.in](https://kaaragir.in)
 
-![Home page screenshot]
+[Home page screenshot]
 <img width="1898" height="960" alt="Screenshot 2026-10-28 105355" src="https://github.com/user-attachments/assets/79431fdb-503b-4778-8942-9fd8728a89a0" />
 
 
